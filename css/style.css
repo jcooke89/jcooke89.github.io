@@ -82,9 +82,8 @@ a.close{ width:32px; height:64px; position:absolute; top:16px; right:-32px; z-in
 .menu-cont a span{width:230px; height:230px;position:absolute; top:0; left:0; z-index:5; display:block;}
 .menu-cont a.about{ left:50px; z-index:4; background:url(../images/a-taupe.png) 0 0 no-repeat;}
 .menu-cont a.resume{ left:200px; z-index:3;background: url(../images/a-darkliver.png) 0 0 no-repeat ;}
-.menu-cont a.portfolio{ left:250px; z-index:2; background: url(../images/a-charcoal.png) 0 0 no-repeat ;}
+.menu-cont a.portfolio{ left:250px; z-index:2; background: url(../images/a-darkliver.png) 0 0 no-repeat ;}
 .menu-cont a.contact{ left:450px; z-index:1;background: url(../images/a-jp-indigo.png) 0 0 no-repeat ;}
-.menu-cont a:hover{ z-index:100;}
 
 /***** Section page*****/
 
