@@ -70,7 +70,7 @@ section {width:790px; height:350px; margin:0 auto; padding:20px 20px 30px 20px; 
 section#about ,section#resume ,section#portfolio , section#contact{ display:none;}
 section#about a{ color:#87BCDE;}
 section#resume a{ color:#805E73;}
-section#portfolio a{ color:#4E4D5C;}
+section#portfolio a{ color:#73880a;}
 section#contact a{ color:#2D4654;}
 section.menu{width:830px; height:230px; margin:0 auto; padding:0; background:none;}
 a.close{ width:32px; height:64px; position:absolute; top:16px; right:-32px; z-index:999; display:block; background:url(../images/bg-close.png) right top no-repeat;}
@@ -94,7 +94,7 @@ a.close{ width:32px; height:64px; position:absolute; top:16px; right:-32px; z-in
 .block h1{text-shadow:#d1d1d1 1px 1px 0; margin:0 0 20px 0; line-height:35px; text-transform: capitalize;font-family: 'YanoneKaffeesatzLight';}
 .block h1.about{ color:#d15600;}
 .block h1.resume{ color:#73880a;}
-.block h1.portfolio{ color:#3f4c6b;}
+.block h1.portfolio{ color:#73880a;}
 .block h1.contact{ color:#d01f3c;}
 .block h3{text-shadow:#d1d1d1 1px 1px 0; margin:0 0 10px 0;color:#394c5e;font-family: 'YanoneKaffeesatzLight'; font-weight:400;}
 .block p{ margin:0 0 15px 0;font-family: 'YanoneKaffeesatzLight';}
